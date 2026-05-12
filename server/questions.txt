@@ -1,0 +1,5 @@
+What is the capital of France?|Paris
+2 + 2 = ?|4
+What color is the sky?|Blue
+Who created Java?|James Gosling
+What planet do we live on?|Earth
